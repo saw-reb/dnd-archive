@@ -18,7 +18,7 @@ body{
 .btnpast{
     margin:2vh;
     height:60vh;
-    width:45vw;
+    width:40vw;
     border:5px solid #731817;
     border-radius:10px;
     background-image: url(images/1btnpast.gif);
@@ -33,9 +33,9 @@ body{
 }
 
 .btncurr{
-    margin: 10px;
+    margin: 2vh;
     height: 60vh;
-    width: 45vw;
+    width: 40vw;
     border:5px solid #731817;
     border-radius:10px;
     background-image:url(images/1btncurr.gif);
